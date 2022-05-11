@@ -22,6 +22,8 @@ public class Higher {
         }
     }
 
+    
+
     @Test
     public void testHigher() {
         assertEquals(25, higher(25, 25));

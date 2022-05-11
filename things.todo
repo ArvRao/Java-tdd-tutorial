@@ -1,8 +1,23 @@
-- function definition first or test case first
-- test cases in different file or same file
-- Naming convention for both unit tests and classes
-- SDLC brief research
+* TDD is protocol, arbitrary elements; if unit test doesn't compile properly, stop & write.
+Make sure the system works.
+
+- function definition or test case, what to write first
+    - As part of 3 arbitrary laws of TDD
+        - Not to write any prodn. code unless passes failing test
+        - Not allowed to write any unit test than is sufficient to fail
+        - Not allowed to write any prodn code than sufficient to pass failing test
+
+- test cases in different file or same file[DONE] to better organise codebase.
+
+- Naming convention for both unit tests and classes[DONE]
+    - Methods and classes for tests and variables
+    - Don't put nouns and function names, put verbs instead
+    - Correct scoping
+
 - Code formatting
-- More on TDD
+    - It is more important for others to undertand our code and what it does.
+    - Try limiting number of arguments
 - Java version to 8.
     - talk about settings.json file
+    - upgrade to terunium
+    - Spoke with another intern about it.
