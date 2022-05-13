@@ -21,5 +21,4 @@ public class Numbers {
         }
         return num1 / num2;
     }
-
 }

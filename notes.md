@@ -61,5 +61,16 @@ Pairs of functions must be used together, closed
 
 * JAR file - Java ARchive. Used for aggregating more than multiple files to one.
 
+`new` keyboard: allocates memory at run time
 We can demonstrate that software cannot be incorrect by doing tests
 Structured programming: By Edsgar Dijkstra 
+
+`static`: is used for memory management
+
+## Naming conventions
+Classes: Noun
+Interface: Adjective
+Method: Verb
+Constant: Capitals, meaningful
+variables: Lower case letters; shouldn't start with special characters
+Packages: Start with lower case letters. Seperated with dots

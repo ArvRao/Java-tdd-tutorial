@@ -1,5 +1,10 @@
 public class First {
     public static void main(String[] args) {
-        System.out.println("Welcome to the first successful file after setup!");
+        int count = 5;
+        int i = 0;
+        for (i = 0; i < count; i++) {
+            System.out.println(i);
+        }
+        System.out.println(i);
     }
 }
