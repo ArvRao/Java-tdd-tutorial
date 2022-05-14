@@ -4,6 +4,6 @@ public class Factors {
     }
 
     public static void factors() {
-        System.out.println("Hello");
+        System.out.println("Good job");
     }   
 }
