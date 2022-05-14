@@ -1,7 +1,7 @@
 public class Age {
     public static void main(String[] args) {
         // System.out.println("This is from Ages class");
-        int age = 19;
+        int age = 24;
         switch (age) {
             case 19:
                 System.out.println("This is the time to get serious");
@@ -22,4 +22,6 @@ public class Age {
                 break;
         }
     }
+
+
 }

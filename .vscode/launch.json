@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TakeInput",
+            "request": "launch",
+            "mainClass": "TakeInput",
+            "projectName": "ExampleProject_6e4bf327"
+        },
+        {
+            "type": "java",
+            "name": "Launch Second",
+            "request": "launch",
+            "mainClass": "Second",
+            "projectName": "ExampleProject_6e4bf327"
+        },
+        {
+            "type": "java",
             "name": "Launch Age",
             "request": "launch",
             "mainClass": "Age",
